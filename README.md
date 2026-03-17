@@ -1,4 +1,4 @@
-# My SQL learning Journey
+# My SQL Learning Journey
 Developing my SQL skills as I work towards becoming a Data Analyst 
 I am documenting my step-by-step progress as I learn SQL for data analysis.
 
