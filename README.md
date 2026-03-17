@@ -28,8 +28,8 @@ I am documenting my step-by-step progress as I learn SQL for data analysis.
 
 ## 🛠 Tools
 
-![SQL](https://img.shields.io/badge/SQL-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-blue)  
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)  
 ![SSMS](https://img.shields.io/badge/SSMS-grey)
 
 ## 🎯 Goal
